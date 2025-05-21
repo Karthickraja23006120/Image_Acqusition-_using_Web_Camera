@@ -29,8 +29,8 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 ``` Python
-### Developed By:POPURI SRAVANI
-### Register No:212223240117
+### Developed By:Karthick Raja K
+### Register No:212223240066
 
 ## i) Write the frame as JPG file
 import cv2
